@@ -1,2 +1,0 @@
-# cheetah
-E-commerce website
